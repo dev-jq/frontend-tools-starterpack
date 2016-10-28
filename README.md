@@ -14,8 +14,9 @@ Sublime Text 3:
 + https://packagecontrol.io/packages/Alignment
 + https://packagecontrol.io/packages/jQuery
 
-# Sublime Text 3 - my starter plugins pack - INSTALATION #
-copy folders to C:\Users\YOUR_PROFILE\AppData\Roaming\Sublime Text 3 
-
 Ruby
 Compass + SASS (http://thesassway.com/beginner/getting-started-with-sass-and-compass)
+
+
+# Sublime Text 3 - my starter plugins pack - INSTALATION #
+copy folders to C:\Users\YOUR_PROFILE\AppData\Roaming\Sublime Text 3 
