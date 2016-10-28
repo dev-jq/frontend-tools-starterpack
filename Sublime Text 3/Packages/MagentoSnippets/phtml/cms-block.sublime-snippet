@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<?php echo \$this->getLayout()->createBlock('cms/block')->setBlockId('$1')->toHtml(); ?>]]></content>
+  <tabTrigger>mg-php-cms-block</tabTrigger>
+  <scope>text.html.basic</scope>
+  <description>CMS Block in PHTML(PHP+HTML)</description>
+</snippet>

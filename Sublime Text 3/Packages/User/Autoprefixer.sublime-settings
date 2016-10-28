@@ -1,0 +1,6 @@
+{
+	"browsers": ["last 5 versions", "ie 9"],
+	"cascade": true,
+	"remove": false,
+	"prefixOnSave": true
+}

@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"LiveReload"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Autoprefixer",
+		"BracketGuard",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Comment-Snippets",
+		"Compass",
+		"CSS3",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FTPSync",
+		"jQuery",
+		"jQuery Snippets pack",
+		"MagentoSnippets",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeOnSaveBuild",
+		"Sublimerge Pro",
+		"Theme - Nexus",
+		"WordCount"
+	]
+}
