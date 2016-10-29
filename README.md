@@ -1,6 +1,6 @@
-Usefull tools and plugins for Front-End Developers
+# Usefull tools and plugins for Front-End Developers
 
-Sublime Text 3:
+Sublime Text 3 :
 + https://packagecontrol.io/packages/Emmet
 + https://packagecontrol.io/packages/Comment-Snippets
 + https://packagecontrol.io/packages/SideBarEnhancements
@@ -17,6 +17,16 @@ Sublime Text 3:
 Ruby
 Compass + SASS (http://thesassway.com/beginner/getting-started-with-sass-and-compass)
 
+Google Chrome and extensions:
++ https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
++ https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=pl
++ https://chrome.google.com/webstore/detail/bootstrap-grid/gmoboekiodfcajledjijioecfimliddo
++ https://chrome.google.com/webstore/detail/css3-generator/dmlgmehijaodgkkooghkknjjkddahmej
++ https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka
++ https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn
++ https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi
++ https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh
++ https://chrome.google.com/webstore/detail/page-load-time/fploionmjgeclbkemipmkogoaohcdbig
 
 # Sublime Text 3 - my starter plugins pack - INSTALATION #
 copy folders to C:\Users\YOUR_PROFILE\AppData\Roaming\Sublime Text 3 
