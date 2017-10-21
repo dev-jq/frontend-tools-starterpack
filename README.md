@@ -13,6 +13,8 @@ Sublime Text 3 :
 + https://packagecontrol.io/packages/Autoprefixer (+Node.js)
 + https://packagecontrol.io/packages/Alignment
 + https://packagecontrol.io/packages/jQuery
++ https://packagecontrol.io/packages/A%20File%20Icon
++ [Theme Nexus] https://packagecontrol.io/packages/Theme%20-%20Nexus
 
 Ruby
 Compass + SASS (http://thesassway.com/beginner/getting-started-with-sass-and-compass)
